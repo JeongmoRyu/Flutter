@@ -10,3 +10,4 @@ flutter dart androidstudio
     - [row](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/row.md)
     - [expanded_mediaquery](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/expanded_mediaquery.md)
     - [listview](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/listview.md)
+    - [textwidget](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/textwidget.md)
