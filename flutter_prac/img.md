@@ -28,4 +28,4 @@ class FirstApp extends StatelessWidget {
 
 ```
 
-![Alt text](image10.png)
+![Alt text](assets/image10.png)
