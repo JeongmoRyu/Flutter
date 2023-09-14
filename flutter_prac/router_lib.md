@@ -125,4 +125,4 @@ class ScreenC extends StatelessWidget {
 
 ```
 
-![image](assets/images/image21.PNG)
+![image](assets/image21.PNG)
