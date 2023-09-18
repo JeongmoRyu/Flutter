@@ -25,3 +25,4 @@ flutter dart androidstudio
     - [container](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/container.md)
     - [navigator_router](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/navigator_router.md)
     - [router_lib](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/router_lib.md)
+    - [collection_generic](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/collection_generic.md)
