@@ -29,3 +29,4 @@ flutter dart androidstudio
     - [generic_plus](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/generic_plus.md)
     - [basic_stateless_widget](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/basic_stateless_widget.md)
     - [stateful_widget](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/stateful_widget.md)
+    - [carousel_slider](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/carousel_slider.md)
