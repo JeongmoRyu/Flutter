@@ -35,4 +35,5 @@ flutter dart androidstudio
     - [silver_scroll_get_image_http](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/silverscroll_http.md)
     - [responsive_login](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/responsive_login.md)
     - [tabbar](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/tabbar.md)
+    - [flutter_fontawesome](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/flutter_fontawesome.md)
     - 
