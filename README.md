@@ -39,5 +39,5 @@ flutter dart androidstudio
     - [bottom_drawer](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/bottom_drawer.md)
     - [flutter_phone_call](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/flutter_phone_call.md)
     - [list_if](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/list_if.md)
-    - [image_on_condition](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/image_on_condition.md)
+    - [icon_on_condition](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/icon_on_condition.md)
     - 
