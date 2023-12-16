@@ -62,4 +62,5 @@ flutter dart androidstudio
     - [popover_cvs](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/popover_cvs.md)
     - [img_temp](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/img_temp.md)
     - [container_height](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/container_height.md)
+    - [syncfusion_chart](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/syncfusion_chart.md)
     - 
