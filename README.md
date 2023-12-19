@@ -63,4 +63,5 @@ flutter dart androidstudio
     - [img_temp](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/img_temp.md)
     - [container_height](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/container_height.md)
     - [syncfusion_chart](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/syncfusion_chart.md)
+    - [반올림하기](https://github.com/JeongmoRyu/Flutter/blob/main/flutter_prac/up_number.md)
     - 
